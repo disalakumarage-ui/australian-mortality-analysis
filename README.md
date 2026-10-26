@@ -11,7 +11,7 @@ This project builds life tables from raw Australian mortality data (1970–2021)
 
 ## Key findings
 
-1. 1. **Life expectancy has risen sharply.** Male life expectancy at birth rose from 67.4 years (1970) to 81.6 (2020). Females rose from 74.2 to 85.7, and the gender gap narrowed from 6.8 years to 4.1.
+1. **Life expectancy has risen sharply.** Male life expectancy at birth rose from 67.4 years (1970) to 81.6 (2020). Females rose from 74.2 to 85.7, and the gender gap narrowed from 6.8 years to 4.1.
 2. **Retirement is much longer.** A 65-year-old man in 2020 could expect 20.6 more years of life, up from 12.0 in 1970: 72% more time in retirement.
 3. **Mortality doubles every ~8 years of adult age.** A Gompertz model fitted to 2020 male mortality (ages 30–90) gives c = 1.092 with R² = 0.987, meaning the chance of dying rises ~9% per year of age.
 4. **Longer lives make pensions far more expensive.** Funding a $20,000/year lifetime pension for a 65-year-old man cost $188,400 under 1970 mortality vs $278,954 under 2020 mortality (4% interest). That is a 48% increase driven purely by longevity.
